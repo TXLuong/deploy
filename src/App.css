@@ -41,4 +41,14 @@
 	background-color : green;
 
 }
+.nav li {
+	display : inline-block;
+	font-size : 20px;
+	padding : 20px;
+}
+.nav {
+	background-color : grey;
+	list-style-type: none;
+	text-align : center;
+}
 
